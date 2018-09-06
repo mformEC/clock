@@ -1,0 +1,5 @@
+INSERT: 2018/09/06/周四-21:06:45.13 - TomatoClockFromWBF and reuturn = 成功: 成功创建计划任务 "TomatoClockFromWBF"。  
+"任务名","下次运行时间","模式"
+"\TomatoClockFromWBF","2018/9/6/周四 21:07:00","就绪"
+DEL: 2018/09/06/周四-21:08:18.61 - TomatoClockFromWBF and reuturn = 成功: 计划的任务 "TomatoClockFromWBF" 被成功删除。  
+DEL: 2018/09/06/周四-21:09:01.78 - TomatoClockFromWBF and reuturn = err: see the console , always can't find taskname 
