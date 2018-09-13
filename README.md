@@ -20,4 +20,4 @@ change it in function.bat , it's easy , you know how to do it.
 ---
 
 ## words in end
-There are two .ico from [here](http://modernuiicons.com/) that can be used as desktop icons. It's my first project, thank you, github and everyone.
+There are two .ico from [here](http://modernuiicons.com/) that can be used as desktop icons.
